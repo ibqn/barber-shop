@@ -1,0 +1,13 @@
+.reference {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: 0;
+  background-image: url("/img/index.png");
+  height: 1756px;
+  width: 100%;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: auto 1756px;
+  /* opacity: 0.5; */
+}
