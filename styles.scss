@@ -27,6 +27,11 @@ body {
   color: transparent;
   margin: 0;
   padding: 0;
+
+  background-image: url('img/background.png');
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
 }
 
 .header {
